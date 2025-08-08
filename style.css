@@ -1,0 +1,41 @@
+/* estilos generales para centrar todo */
+body {
+  background-color: #0992b4;
+  font-family: Arial, sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh; /* ocupa toda la altura de la pantalla */
+}
+
+/* estilos para la tarjeta de perfil */
+#tarjeta-perfil {
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  text-align: center;
+}
+
+.profile img {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  margin-bottom: 10px;
+}
+
+ #boton-saludo {
+  background-color: #439fb6;
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+
+#boton-saludo:hover {
+  background-color: #439fb6;
+}
+
+
