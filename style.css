@@ -17,9 +17,9 @@ body {
   text-align: center;
 }
 
-.profile img {
-  width: 150px;
-  height: 150px;
+#tarjeta-perfil img {
+  width: 200px;
+  height: 200px;
   border-radius: 50%;
   margin-bottom: 10px;
 }
