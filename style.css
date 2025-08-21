@@ -17,6 +17,11 @@ body {
   text-align: center;
 }
 
+#tarjeta-perfil h1{
+  color: #3157f2;
+  font-size: 30px;
+}
+
 #tarjeta-perfil img {
   width: 200px;
   height: 200px;
@@ -24,8 +29,13 @@ body {
   margin-bottom: 10px;
 }
 
+#tarjeta-perfil p{
+  color: #ff0000;
+  font-size: 20px;
+}
+
  #boton-saludo {
-  background-color: #439fb6;
+  background-color: #fcb611;
   color: #fff;
   border: none;
   padding: 10px 20px;
